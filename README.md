@@ -1,2 +1,3 @@
-# HTML---devler
-Kodluyoruz HTML ödev kısmı.
+# HTML Odevler
+Kodluyoruz HTML odev kismi.
+Odev - 1 Eklendi
